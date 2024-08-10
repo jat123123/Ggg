@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Bhavishya
+title = JAI MAHAKAL
 
 # (str) Package name
 package.name = myapp_beta
